@@ -1,6 +1,7 @@
 # ProyectoTriton
  ABM de empleados
 
+Autor: Agustín Méndez Filippini
 Lenguaje: Java
 IDE: Apache NetBeans 12.2
 Gestor de base de datos: MySQL
